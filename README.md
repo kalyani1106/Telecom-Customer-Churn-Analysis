@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis using Python, SQL & Power BI
+# 📊 Telecom Customer Churn Analysis
 
 ## 📌 Project Overview
 
